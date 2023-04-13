@@ -1,4 +1,4 @@
 
 
-This is a directory for practicing git commands.
+This is a my first file 
 
